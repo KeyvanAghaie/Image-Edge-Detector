@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PrBqiy595Tc=",
+  "success": true,
+  "projectFilePath": "C:\\K1\\Sources\\Geeks\\Technical Assessmen\\EdgeDetectionApp\\EdgeDetectionApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANGELSOFT\\.nuget\\packages\\opencvsharp4\\4.10.0.20241108\\opencvsharp4.4.10.0.20241108.nupkg.sha512",
+    "C:\\Users\\ANGELSOFT\\.nuget\\packages\\opencvsharp4.runtime.win\\4.10.0.20241108\\opencvsharp4.runtime.win.4.10.0.20241108.nupkg.sha512",
+    "C:\\Users\\ANGELSOFT\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ANGELSOFT\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
